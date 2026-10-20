@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Raw downloads (re-creatable by 01_collect)
+data/raw/*
+!data/raw/.gitkeep
+
+# Web
+web/node_modules/
+web/dist/
+web/build/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
