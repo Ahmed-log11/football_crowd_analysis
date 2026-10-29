@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { ResponsiveContainer, LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ReferenceArea } from "recharts";
 import { Section, LeagueChips, Tip, ChartBox, COLORS, useAxis } from "../components/ui.jsx";
 import { useLang } from "../i18n.jsx";
@@ -14,6 +14,10 @@ export default function Experiment({ attendance }) {
   const yearTicks = attendance
     .filter((row, i) => i > 0 && row.month.slice(0, 4) !== attendance[i - 1].month.slice(0, 4))
     .map((row) => row.month);
+
+  // on a phone there's no room for 9 years, so show every other year
+  const narrow = useNarrow();
+  const shownTicks = narrow ? yearTicks.filter((m) => Number(m.slice(0, 4)) % 2 === 0) : yearTicks;
 
   return (
     <Section id="experiment">
@@ -34,7 +38,7 @@ export default function Experiment({ attendance }) {
                 <CartesianGrid stroke={COLORS.grid} vertical={false} />
                 <ReferenceArea x1="2020-03" x2="2021-05" fill={COLORS.green} fillOpacity={0.1} ifOverflow="extendDomain" />
                 <XAxis dataKey="month" tick={axis} tickLine={false} axisLine={{ stroke: COLORS.muted }}
-                  ticks={yearTicks} interval={0} tickFormatter={(m) => m.slice(0, 4)} />
+                  ticks={shownTicks} interval={0} tickFormatter={(m) => m.slice(0, 4)} />
                 <YAxis tick={axis} tickLine={false} axisLine={false} width={48}
                   tickFormatter={(v) => (v >= 1000 ? `${Math.round(v / 1000)}k` : v)} />
                 <Tooltip content={<Tip digits={0} />} />
@@ -49,4 +53,16 @@ export default function Experiment({ attendance }) {
       </div>
     </Section>
   );
+}
+
+function useNarrow() {
+  const query = "(max-width: 600px)";
+  const [narrow, setNarrow] = useState(() => window.matchMedia(query).matches);
+  useEffect(() => {
+    const mq = window.matchMedia(query);
+    const update = () => setNarrow(mq.matches);
+    mq.addEventListener("change", update);
+    return () => mq.removeEventListener("change", update);
+  }, []);
+  return narrow;
 }
