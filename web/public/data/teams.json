@@ -1,0 +1,984 @@
+{
+ "Bundesliga": [
+  {
+   "team": "Arminia",
+   "fans_matches": 18,
+   "fans_win": 16.7,
+   "fans_points": 1.06,
+   "ghost_matches": 16,
+   "ghost_win": 31.2,
+   "ghost_points": 1.06
+  },
+  {
+   "team": "Augsburg",
+   "fans_matches": 129,
+   "fans_win": 38.0,
+   "fans_points": 1.4,
+   "ghost_matches": 21,
+   "ghost_win": 23.8,
+   "ghost_points": 1.0
+  },
+  {
+   "team": "Bayern Munich",
+   "fans_matches": 130,
+   "fans_win": 77.7,
+   "fans_points": 2.48,
+   "ghost_matches": 20,
+   "ghost_win": 80.0,
+   "ghost_points": 2.6
+  },
+  {
+   "team": "Dortmund",
+   "fans_matches": 134,
+   "fans_win": 71.6,
+   "fans_points": 2.29,
+   "ghost_matches": 19,
+   "ghost_win": 52.6,
+   "ghost_points": 1.68
+  },
+  {
+   "team": "Düsseldorf",
+   "fans_matches": 29,
+   "fans_win": 41.4,
+   "fans_points": 1.34,
+   "ghost_matches": 5,
+   "ghost_win": 20.0,
+   "ghost_points": 1.2
+  },
+  {
+   "team": "Frankfurt",
+   "fans_matches": 133,
+   "fans_win": 45.1,
+   "fans_points": 1.65,
+   "ghost_matches": 20,
+   "ghost_win": 55.0,
+   "ghost_points": 2.0
+  },
+  {
+   "team": "Freiburg",
+   "fans_matches": 131,
+   "fans_win": 45.8,
+   "fans_points": 1.67,
+   "ghost_matches": 21,
+   "ghost_win": 47.6,
+   "ghost_points": 1.67
+  },
+  {
+   "team": "Gladbach",
+   "fans_matches": 133,
+   "fans_win": 46.6,
+   "fans_points": 1.65,
+   "ghost_matches": 20,
+   "ghost_win": 60.0,
+   "ghost_points": 1.9
+  },
+  {
+   "team": "Hertha BSC",
+   "fans_matches": 83,
+   "fans_win": 30.1,
+   "fans_points": 1.2,
+   "ghost_matches": 19,
+   "ghost_win": 42.1,
+   "ghost_points": 1.53
+  },
+  {
+   "team": "Hoffenheim",
+   "fans_matches": 133,
+   "fans_win": 43.6,
+   "fans_points": 1.52,
+   "ghost_matches": 19,
+   "ghost_win": 47.4,
+   "ghost_points": 1.58
+  },
+  {
+   "team": "Köln",
+   "fans_matches": 99,
+   "fans_win": 33.3,
+   "fans_points": 1.24,
+   "ghost_matches": 20,
+   "ghost_win": 15.0,
+   "ghost_points": 0.8
+  },
+  {
+   "team": "Leverkusen",
+   "fans_matches": 132,
+   "fans_win": 56.8,
+   "fans_points": 1.91,
+   "ghost_matches": 20,
+   "ghost_win": 50.0,
+   "ghost_points": 1.7
+  },
+  {
+   "team": "Mainz 05",
+   "fans_matches": 135,
+   "fans_win": 37.8,
+   "fans_points": 1.42,
+   "ghost_matches": 18,
+   "ghost_win": 27.8,
+   "ghost_points": 1.06
+  },
+  {
+   "team": "RB Leipzig",
+   "fans_matches": 130,
+   "fans_win": 63.1,
+   "fans_points": 2.12,
+   "ghost_matches": 19,
+   "ghost_win": 42.1,
+   "ghost_points": 1.68
+  },
+  {
+   "team": "Schalke 04",
+   "fans_matches": 65,
+   "fans_win": 36.9,
+   "fans_points": 1.42,
+   "ghost_matches": 20,
+   "ghost_win": 15.0,
+   "ghost_points": 0.6
+  },
+  {
+   "team": "Stuttgart",
+   "fans_matches": 121,
+   "fans_win": 48.8,
+   "fans_points": 1.69,
+   "ghost_matches": 15,
+   "ghost_win": 33.3,
+   "ghost_points": 1.33
+  },
+  {
+   "team": "Union Berlin",
+   "fans_matches": 100,
+   "fans_win": 46.0,
+   "fans_points": 1.66,
+   "ghost_matches": 18,
+   "ghost_win": 44.4,
+   "ghost_points": 1.83
+  },
+  {
+   "team": "Werder Bremen",
+   "fans_matches": 116,
+   "fans_win": 32.8,
+   "fans_points": 1.25,
+   "ghost_matches": 20,
+   "ghost_win": 15.0,
+   "ghost_points": 0.75
+  },
+  {
+   "team": "Wolfsburg",
+   "fans_matches": 134,
+   "fans_win": 29.9,
+   "fans_points": 1.23,
+   "ghost_matches": 19,
+   "ghost_win": 47.4,
+   "ghost_points": 1.63
+  }
+ ],
+ "EPL": [
+  {
+   "team": "Arsenal",
+   "fans_matches": 150,
+   "fans_win": 70.0,
+   "fans_points": 2.27,
+   "ghost_matches": 21,
+   "ghost_win": 47.6,
+   "ghost_points": 1.67
+  },
+  {
+   "team": "Aston Villa",
+   "fans_matches": 108,
+   "fans_win": 53.7,
+   "fans_points": 1.81,
+   "ghost_matches": 24,
+   "ghost_win": 33.3,
+   "ghost_points": 1.21
+  },
+  {
+   "team": "Bournemouth",
+   "fans_matches": 128,
+   "fans_win": 36.7,
+   "fans_points": 1.41,
+   "ghost_matches": 5,
+   "ghost_win": 20.0,
+   "ghost_points": 0.8
+  },
+  {
+   "team": "Brighton",
+   "fans_matches": 149,
+   "fans_win": 38.9,
+   "fans_points": 1.5,
+   "ghost_matches": 22,
+   "ghost_win": 18.2,
+   "ghost_points": 1.0
+  },
+  {
+   "team": "Burnley",
+   "fans_matches": 111,
+   "fans_win": 27.0,
+   "fans_points": 1.05,
+   "ghost_matches": 22,
+   "ghost_win": 22.7,
+   "ghost_points": 1.05
+  },
+  {
+   "team": "Chelsea",
+   "fans_matches": 150,
+   "fans_win": 51.3,
+   "fans_points": 1.81,
+   "ghost_matches": 21,
+   "ghost_win": 52.4,
+   "ghost_points": 1.86
+  },
+  {
+   "team": "Crystal Palace",
+   "fans_matches": 150,
+   "fans_win": 33.3,
+   "fans_points": 1.33,
+   "ghost_matches": 21,
+   "ghost_win": 28.6,
+   "ghost_points": 1.1
+  },
+  {
+   "team": "Everton",
+   "fans_matches": 149,
+   "fans_win": 42.3,
+   "fans_points": 1.5,
+   "ghost_matches": 22,
+   "ghost_win": 22.7,
+   "ghost_points": 1.0
+  },
+  {
+   "team": "Fulham",
+   "fans_matches": 97,
+   "fans_win": 42.3,
+   "fans_points": 1.45,
+   "ghost_matches": 17,
+   "ghost_win": 11.8,
+   "ghost_points": 0.53
+  },
+  {
+   "team": "Leeds United",
+   "fans_matches": 58,
+   "fans_win": 32.8,
+   "fans_points": 1.29,
+   "ghost_matches": 18,
+   "ghost_win": 38.9,
+   "ghost_points": 1.44
+  },
+  {
+   "team": "Leicester City",
+   "fans_matches": 111,
+   "fans_win": 38.7,
+   "fans_points": 1.37,
+   "ghost_matches": 22,
+   "ghost_win": 50.0,
+   "ghost_points": 1.59
+  },
+  {
+   "team": "Liverpool",
+   "fans_matches": 152,
+   "fans_win": 75.0,
+   "fans_points": 2.46,
+   "ghost_matches": 19,
+   "ghost_win": 52.6,
+   "ghost_points": 1.74
+  },
+  {
+   "team": "Manchester City",
+   "fans_matches": 147,
+   "fans_win": 79.6,
+   "fans_points": 2.51,
+   "ghost_matches": 24,
+   "ghost_win": 75.0,
+   "ghost_points": 2.33
+  },
+  {
+   "team": "Manchester Utd",
+   "fans_matches": 149,
+   "fans_win": 59.1,
+   "fans_points": 1.98,
+   "ghost_matches": 22,
+   "ghost_win": 50.0,
+   "ghost_points": 1.73
+  },
+  {
+   "team": "Newcastle",
+   "fans_matches": 148,
+   "fans_win": 50.7,
+   "fans_points": 1.73,
+   "ghost_matches": 23,
+   "ghost_win": 26.1,
+   "ghost_points": 1.09
+  },
+  {
+   "team": "Norwich City",
+   "fans_matches": 33,
+   "fans_win": 21.2,
+   "fans_points": 0.82,
+   "ghost_matches": 5,
+   "ghost_win": 0.0,
+   "ghost_points": 0.0
+  },
+  {
+   "team": "Sheffield United",
+   "fans_matches": 35,
+   "fans_win": 28.6,
+   "fans_points": 1.06,
+   "ghost_matches": 22,
+   "ghost_win": 31.8,
+   "ghost_points": 1.0
+  },
+  {
+   "team": "Southampton",
+   "fans_matches": 112,
+   "fans_win": 20.5,
+   "fans_points": 0.9,
+   "ghost_matches": 21,
+   "ghost_win": 42.9,
+   "ghost_points": 1.48
+  },
+  {
+   "team": "Tottenham",
+   "fans_matches": 149,
+   "fans_win": 54.4,
+   "fans_points": 1.76,
+   "ghost_matches": 22,
+   "ghost_win": 59.1,
+   "ghost_points": 1.95
+  },
+  {
+   "team": "Watford",
+   "fans_matches": 71,
+   "fans_win": 29.6,
+   "fans_points": 1.11,
+   "ghost_matches": 5,
+   "ghost_win": 40.0,
+   "ghost_points": 1.4
+  },
+  {
+   "team": "West Brom",
+   "fans_matches": 20,
+   "fans_win": 15.0,
+   "fans_points": 0.9,
+   "ghost_matches": 18,
+   "ghost_win": 16.7,
+   "ghost_points": 0.83
+  },
+  {
+   "team": "West Ham",
+   "fans_matches": 149,
+   "fans_win": 37.6,
+   "fans_points": 1.39,
+   "ghost_matches": 22,
+   "ghost_win": 50.0,
+   "ghost_points": 1.73
+  },
+  {
+   "team": "Wolves",
+   "fans_matches": 130,
+   "fans_win": 36.9,
+   "fans_points": 1.32,
+   "ghost_matches": 22,
+   "ghost_win": 45.5,
+   "ghost_points": 1.55
+  }
+ ],
+ "La_Liga": [
+  {
+   "team": "Alavés",
+   "fans_matches": 128,
+   "fans_win": 39.8,
+   "fans_points": 1.46,
+   "ghost_matches": 24,
+   "ghost_win": 29.2,
+   "ghost_points": 1.17
+  },
+  {
+   "team": "Athletic Club",
+   "fans_matches": 146,
+   "fans_win": 49.3,
+   "fans_points": 1.76,
+   "ghost_matches": 25,
+   "ghost_win": 40.0,
+   "ghost_points": 1.48
+  },
+  {
+   "team": "Atlético Madrid",
+   "fans_matches": 147,
+   "fans_win": 71.4,
+   "fans_points": 2.33,
+   "ghost_matches": 24,
+   "ghost_win": 79.2,
+   "ghost_points": 2.54
+  },
+  {
+   "team": "Barcelona",
+   "fans_matches": 146,
+   "fans_win": 80.8,
+   "fans_points": 2.52,
+   "ghost_matches": 24,
+   "ghost_win": 58.3,
+   "ghost_points": 2.0
+  },
+  {
+   "team": "Celta Vigo",
+   "fans_matches": 147,
+   "fans_win": 38.8,
+   "fans_points": 1.45,
+   "ghost_matches": 24,
+   "ghost_win": 41.7,
+   "ghost_points": 1.5
+  },
+  {
+   "team": "Cádiz",
+   "fans_matches": 57,
+   "fans_win": 26.3,
+   "fans_points": 1.21,
+   "ghost_matches": 19,
+   "ghost_win": 26.3,
+   "ghost_points": 1.05
+  },
+  {
+   "team": "Eibar",
+   "fans_matches": 51,
+   "fans_win": 45.1,
+   "fans_points": 1.57,
+   "ghost_matches": 25,
+   "ghost_win": 16.0,
+   "ghost_points": 0.84
+  },
+  {
+   "team": "Elche",
+   "fans_matches": 58,
+   "fans_win": 34.5,
+   "fans_points": 1.38,
+   "ghost_matches": 18,
+   "ghost_win": 22.2,
+   "ghost_points": 1.11
+  },
+  {
+   "team": "Espanyol",
+   "fans_matches": 127,
+   "fans_win": 37.8,
+   "fans_points": 1.43,
+   "ghost_matches": 6,
+   "ghost_win": 16.7,
+   "ghost_points": 0.67
+  },
+  {
+   "team": "Getafe",
+   "fans_matches": 147,
+   "fans_win": 41.5,
+   "fans_points": 1.51,
+   "ghost_matches": 24,
+   "ghost_win": 29.2,
+   "ghost_points": 1.21
+  },
+  {
+   "team": "Granada",
+   "fans_matches": 51,
+   "fans_win": 33.3,
+   "fans_points": 1.29,
+   "ghost_matches": 25,
+   "ghost_win": 44.0,
+   "ghost_points": 1.52
+  },
+  {
+   "team": "Huesca",
+   "fans_matches": 19,
+   "fans_win": 26.3,
+   "fans_points": 1.11,
+   "ghost_matches": 19,
+   "ghost_win": 26.3,
+   "ghost_points": 1.16
+  },
+  {
+   "team": "Leganés",
+   "fans_matches": 71,
+   "fans_win": 38.0,
+   "fans_points": 1.41,
+   "ghost_matches": 5,
+   "ghost_win": 20.0,
+   "ghost_points": 1.0
+  },
+  {
+   "team": "Levante",
+   "fans_matches": 89,
+   "fans_win": 36.0,
+   "fans_points": 1.39,
+   "ghost_matches": 25,
+   "ghost_win": 28.0,
+   "ghost_points": 1.28
+  },
+  {
+   "team": "Mallorca",
+   "fans_matches": 109,
+   "fans_win": 41.3,
+   "fans_points": 1.54,
+   "ghost_matches": 5,
+   "ghost_win": 40.0,
+   "ghost_points": 1.4
+  },
+  {
+   "team": "Osasuna",
+   "fans_matches": 109,
+   "fans_win": 42.2,
+   "fans_points": 1.53,
+   "ghost_matches": 24,
+   "ghost_win": 37.5,
+   "ghost_points": 1.42
+  },
+  {
+   "team": "Real Betis",
+   "fans_matches": 147,
+   "fans_win": 49.0,
+   "fans_points": 1.73,
+   "ghost_matches": 24,
+   "ghost_win": 50.0,
+   "ghost_points": 1.75
+  },
+  {
+   "team": "Real Madrid",
+   "fans_matches": 146,
+   "fans_win": 74.0,
+   "fans_points": 2.38,
+   "ghost_matches": 25,
+   "ghost_win": 76.0,
+   "ghost_points": 2.4
+  },
+  {
+   "team": "Real Sociedad",
+   "fans_matches": 146,
+   "fans_win": 47.9,
+   "fans_points": 1.68,
+   "ghost_matches": 25,
+   "ghost_win": 40.0,
+   "ghost_points": 1.52
+  },
+  {
+   "team": "Sevilla",
+   "fans_matches": 146,
+   "fans_win": 45.9,
+   "fans_points": 1.64,
+   "ghost_matches": 25,
+   "ghost_win": 72.0,
+   "ghost_points": 2.28
+  },
+  {
+   "team": "Valencia",
+   "fans_matches": 148,
+   "fans_win": 45.9,
+   "fans_points": 1.7,
+   "ghost_matches": 23,
+   "ghost_win": 43.5,
+   "ghost_points": 1.65
+  },
+  {
+   "team": "Valladolid",
+   "fans_matches": 70,
+   "fans_win": 27.1,
+   "fans_points": 1.1,
+   "ghost_matches": 25,
+   "ghost_win": 20.0,
+   "ghost_points": 1.0
+  },
+  {
+   "team": "Villarreal",
+   "fans_matches": 147,
+   "fans_win": 51.7,
+   "fans_points": 1.8,
+   "ghost_matches": 24,
+   "ghost_win": 41.7,
+   "ghost_points": 1.54
+  }
+ ],
+ "Ligue_1": [
+  {
+   "team": "Angers",
+   "fans_matches": 123,
+   "fans_win": 32.5,
+   "fans_points": 1.23,
+   "ghost_matches": 19,
+   "ghost_win": 31.6,
+   "ghost_points": 1.11
+  },
+  {
+   "team": "Bordeaux",
+   "fans_matches": 69,
+   "fans_win": 33.3,
+   "fans_points": 1.32,
+   "ghost_matches": 19,
+   "ghost_win": 36.8,
+   "ghost_points": 1.32
+  },
+  {
+   "team": "Brest",
+   "fans_matches": 103,
+   "fans_win": 43.7,
+   "fans_points": 1.6,
+   "ghost_matches": 19,
+   "ghost_win": 42.1,
+   "ghost_points": 1.47
+  },
+  {
+   "team": "Dijon",
+   "fans_matches": 52,
+   "fans_win": 44.2,
+   "fans_points": 1.58,
+   "ghost_matches": 19,
+   "ghost_win": 5.3,
+   "ghost_points": 0.47
+  },
+  {
+   "team": "Lens",
+   "fans_matches": 87,
+   "fans_win": 63.2,
+   "fans_points": 2.06,
+   "ghost_matches": 19,
+   "ghost_win": 36.8,
+   "ghost_points": 1.47
+  },
+  {
+   "team": "Lille",
+   "fans_matches": 142,
+   "fans_win": 56.3,
+   "fans_points": 1.96,
+   "ghost_matches": 18,
+   "ghost_win": 55.6,
+   "ghost_points": 2.0
+  },
+  {
+   "team": "Lorient",
+   "fans_matches": 72,
+   "fans_win": 37.5,
+   "fans_points": 1.4,
+   "ghost_matches": 19,
+   "ghost_win": 52.6,
+   "ghost_points": 1.68
+  },
+  {
+   "team": "Lyon",
+   "fans_matches": 139,
+   "fans_win": 56.8,
+   "fans_points": 1.93,
+   "ghost_matches": 18,
+   "ghost_win": 61.1,
+   "ghost_points": 1.94
+  },
+  {
+   "team": "Marseille",
+   "fans_matches": 139,
+   "fans_win": 56.8,
+   "fans_points": 1.96,
+   "ghost_matches": 19,
+   "ghost_win": 52.6,
+   "ghost_points": 1.84
+  },
+  {
+   "team": "Metz",
+   "fans_matches": 88,
+   "fans_win": 19.3,
+   "fans_points": 0.83,
+   "ghost_matches": 17,
+   "ghost_win": 23.5,
+   "ghost_points": 1.0
+  },
+  {
+   "team": "Monaco",
+   "fans_matches": 141,
+   "fans_win": 56.7,
+   "fans_points": 1.89,
+   "ghost_matches": 19,
+   "ghost_win": 63.2,
+   "ghost_points": 2.16
+  },
+  {
+   "team": "Montpellier",
+   "fans_matches": 122,
+   "fans_win": 35.2,
+   "fans_points": 1.38,
+   "ghost_matches": 19,
+   "ghost_win": 36.8,
+   "ghost_points": 1.32
+  },
+  {
+   "team": "Nantes",
+   "fans_matches": 139,
+   "fans_win": 36.0,
+   "fans_points": 1.32,
+   "ghost_matches": 19,
+   "ghost_win": 15.8,
+   "ghost_points": 0.89
+  },
+  {
+   "team": "Nice",
+   "fans_matches": 139,
+   "fans_win": 48.9,
+   "fans_points": 1.73,
+   "ghost_matches": 19,
+   "ghost_win": 36.8,
+   "ghost_points": 1.26
+  },
+  {
+   "team": "Nîmes",
+   "fans_matches": 33,
+   "fans_win": 45.5,
+   "fans_points": 1.58,
+   "ghost_matches": 19,
+   "ghost_win": 15.8,
+   "ghost_points": 0.74
+  },
+  {
+   "team": "Paris SG",
+   "fans_matches": 141,
+   "fans_win": 78.7,
+   "fans_points": 2.5,
+   "ghost_matches": 19,
+   "ghost_win": 68.4,
+   "ghost_points": 2.11
+  },
+  {
+   "team": "Reims",
+   "fans_matches": 105,
+   "fans_win": 36.2,
+   "fans_points": 1.4,
+   "ghost_matches": 19,
+   "ghost_win": 21.1,
+   "ghost_points": 1.05
+  },
+  {
+   "team": "Rennes",
+   "fans_matches": 141,
+   "fans_win": 56.7,
+   "fans_points": 1.87,
+   "ghost_matches": 19,
+   "ghost_win": 47.4,
+   "ghost_points": 1.63
+  },
+  {
+   "team": "Saint-Étienne",
+   "fans_matches": 85,
+   "fans_win": 40.0,
+   "fans_points": 1.48,
+   "ghost_matches": 19,
+   "ghost_win": 26.3,
+   "ghost_points": 1.11
+  },
+  {
+   "team": "Strasbourg",
+   "fans_matches": 140,
+   "fans_win": 44.3,
+   "fans_points": 1.61,
+   "ghost_matches": 19,
+   "ghost_win": 21.1,
+   "ghost_points": 0.89
+  }
+ ],
+ "Serie_A": [
+  {
+   "team": "Atalanta",
+   "fans_matches": 146,
+   "fans_win": 48.6,
+   "fans_points": 1.71,
+   "ghost_matches": 24,
+   "ghost_win": 70.8,
+   "ghost_points": 2.25
+  },
+  {
+   "team": "Benevento",
+   "fans_matches": 22,
+   "fans_win": 27.3,
+   "fans_points": 0.91,
+   "ghost_matches": 16,
+   "ghost_win": 6.2,
+   "ghost_points": 0.62
+  },
+  {
+   "team": "Bologna",
+   "fans_matches": 148,
+   "fans_win": 42.6,
+   "fans_points": 1.56,
+   "ghost_matches": 23,
+   "ghost_win": 30.4,
+   "ghost_points": 1.26
+  },
+  {
+   "team": "Brescia",
+   "fans_matches": 13,
+   "fans_win": 7.7,
+   "fans_points": 0.46,
+   "ghost_matches": 6,
+   "ghost_win": 33.3,
+   "ghost_points": 1.33
+  },
+  {
+   "team": "Cagliari",
+   "fans_matches": 129,
+   "fans_win": 32.6,
+   "fans_points": 1.22,
+   "ghost_matches": 23,
+   "ghost_win": 26.1,
+   "ghost_points": 1.04
+  },
+  {
+   "team": "Crotone",
+   "fans_matches": 20,
+   "fans_win": 30.0,
+   "fans_points": 1.25,
+   "ghost_matches": 18,
+   "ghost_win": 27.8,
+   "ghost_points": 0.89
+  },
+  {
+   "team": "Fiorentina",
+   "fans_matches": 148,
+   "fans_win": 43.9,
+   "fans_points": 1.62,
+   "ghost_matches": 23,
+   "ghost_win": 30.4,
+   "ghost_points": 1.3
+  },
+  {
+   "team": "Genoa",
+   "fans_matches": 125,
+   "fans_win": 30.4,
+   "fans_points": 1.21,
+   "ghost_matches": 25,
+   "ghost_win": 32.0,
+   "ghost_points": 1.24
+  },
+  {
+   "team": "Hellas Verona",
+   "fans_matches": 128,
+   "fans_win": 29.7,
+   "fans_points": 1.1,
+   "ghost_matches": 24,
+   "ghost_win": 29.2,
+   "ghost_points": 1.21
+  },
+  {
+   "team": "Inter",
+   "fans_matches": 148,
+   "fans_win": 67.6,
+   "fans_points": 2.22,
+   "ghost_matches": 23,
+   "ghost_win": 82.6,
+   "ghost_points": 2.61
+  },
+  {
+   "team": "Juventus",
+   "fans_matches": 147,
+   "fans_win": 66.7,
+   "fans_points": 2.24,
+   "ghost_matches": 24,
+   "ghost_win": 75.0,
+   "ghost_points": 2.33
+  },
+  {
+   "team": "Lazio",
+   "fans_matches": 149,
+   "fans_win": 50.3,
+   "fans_points": 1.8,
+   "ghost_matches": 21,
+   "ghost_win": 71.4,
+   "ghost_points": 2.24
+  },
+  {
+   "team": "Lecce",
+   "fans_matches": 89,
+   "fans_win": 22.5,
+   "fans_points": 1.01,
+   "ghost_matches": 6,
+   "ghost_win": 33.3,
+   "ghost_points": 1.0
+  },
+  {
+   "team": "Milan",
+   "fans_matches": 147,
+   "fans_win": 56.5,
+   "fans_points": 1.95,
+   "ghost_matches": 24,
+   "ghost_win": 45.8,
+   "ghost_points": 1.67
+  },
+  {
+   "team": "Napoli",
+   "fans_matches": 148,
+   "fans_win": 62.2,
+   "fans_points": 2.06,
+   "ghost_matches": 23,
+   "ghost_win": 65.2,
+   "ghost_points": 2.17
+  },
+  {
+   "team": "Parma",
+   "fans_matches": 72,
+   "fans_win": 30.6,
+   "fans_points": 1.21,
+   "ghost_matches": 23,
+   "ghost_win": 8.7,
+   "ghost_points": 0.48
+  },
+  {
+   "team": "Roma",
+   "fans_matches": 148,
+   "fans_win": 60.1,
+   "fans_points": 2.0,
+   "ghost_matches": 23,
+   "ghost_win": 69.6,
+   "ghost_points": 2.26
+  },
+  {
+   "team": "SPAL",
+   "fans_matches": 50,
+   "fans_win": 24.0,
+   "fans_points": 1.06,
+   "ghost_matches": 7,
+   "ghost_win": 0.0,
+   "ghost_points": 0.29
+  },
+  {
+   "team": "Sampdoria",
+   "fans_matches": 91,
+   "fans_win": 36.3,
+   "fans_points": 1.3,
+   "ghost_matches": 23,
+   "ghost_win": 47.8,
+   "ghost_points": 1.57
+  },
+  {
+   "team": "Sassuolo",
+   "fans_matches": 128,
+   "fans_win": 33.6,
+   "fans_points": 1.3,
+   "ghost_matches": 23,
+   "ghost_win": 39.1,
+   "ghost_points": 1.52
+  },
+  {
+   "team": "Spezia",
+   "fans_matches": 40,
+   "fans_win": 22.5,
+   "fans_points": 0.98,
+   "ghost_matches": 17,
+   "ghost_win": 29.4,
+   "ghost_points": 1.24
+  },
+  {
+   "team": "Torino",
+   "fans_matches": 147,
+   "fans_win": 40.1,
+   "fans_points": 1.49,
+   "ghost_matches": 24,
+   "ghost_win": 25.0,
+   "ghost_points": 1.21
+  },
+  {
+   "team": "Udinese",
+   "fans_matches": 148,
+   "fans_win": 31.1,
+   "fans_points": 1.24,
+   "ghost_matches": 23,
+   "ghost_win": 21.7,
+   "ghost_points": 0.96
+  }
+ ]
+}

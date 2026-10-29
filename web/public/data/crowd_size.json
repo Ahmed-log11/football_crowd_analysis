@@ -1,0 +1,20 @@
+[
+ {
+  "fill": "Empty",
+  "matches": 2122,
+  "home_win": 39.9,
+  "home_points": 1.45
+ },
+ {
+  "fill": "Under half full",
+  "matches": 1558,
+  "home_win": 42.9,
+  "home_points": 1.54
+ },
+ {
+  "fill": "Half full or more",
+  "matches": 12381,
+  "home_win": 44.3,
+  "home_points": 1.58
+ }
+]

@@ -1,0 +1,74 @@
+{
+ "All": [
+  {
+   "group": "With fans",
+   "shots": 2.56,
+   "shots_on_target": 0.89
+  },
+  {
+   "group": "Empty stadiums",
+   "shots": 1.35,
+   "shots_on_target": 0.52
+  }
+ ],
+ "EPL": [
+  {
+   "group": "With fans",
+   "shots": 2.55,
+   "shots_on_target": 0.78
+  },
+  {
+   "group": "Empty stadiums",
+   "shots": 1.12,
+   "shots_on_target": 0.36
+  }
+ ],
+ "La_Liga": [
+  {
+   "group": "With fans",
+   "shots": 2.96,
+   "shots_on_target": 1.09
+  },
+  {
+   "group": "Empty stadiums",
+   "shots": 1.42,
+   "shots_on_target": 0.52
+  }
+ ],
+ "Serie_A": [
+  {
+   "group": "With fans",
+   "shots": 2.3,
+   "shots_on_target": 0.78
+  },
+  {
+   "group": "Empty stadiums",
+   "shots": 1.23,
+   "shots_on_target": 0.69
+  }
+ ],
+ "Bundesliga": [
+  {
+   "group": "With fans",
+   "shots": 2.7,
+   "shots_on_target": 1.0
+  },
+  {
+   "group": "Empty stadiums",
+   "shots": 1.1,
+   "shots_on_target": 0.46
+  }
+ ],
+ "Ligue_1": [
+  {
+   "group": "With fans",
+   "shots": 2.27,
+   "shots_on_target": 0.8
+  },
+  {
+   "group": "Empty stadiums",
+   "shots": 1.9,
+   "shots_on_target": 0.57
+  }
+ ]
+}

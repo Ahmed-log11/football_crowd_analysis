@@ -1,0 +1,140 @@
+{
+ "All": [
+  {
+   "period": "Before COVID",
+   "matches": 4904,
+   "home_win": 45.0,
+   "draw": 25.0,
+   "away_win": 30.0
+  },
+  {
+   "period": "Empty stadiums",
+   "matches": 2122,
+   "home_win": 39.9,
+   "draw": 25.3,
+   "away_win": 34.8
+  },
+  {
+   "period": "Fans back",
+   "matches": 7072,
+   "home_win": 43.8,
+   "draw": 25.3,
+   "away_win": 31.0
+  }
+ ],
+ "EPL": [
+  {
+   "period": "Before COVID",
+   "matches": 1036,
+   "home_win": 45.9,
+   "draw": 23.1,
+   "away_win": 31.0
+  },
+  {
+   "period": "Empty stadiums",
+   "matches": 440,
+   "home_win": 38.6,
+   "draw": 22.5,
+   "away_win": 38.9
+  },
+  {
+   "period": "Fans back",
+   "matches": 1519,
+   "home_win": 44.4,
+   "draw": 24.1,
+   "away_win": 31.5
+  }
+ ],
+ "La_Liga": [
+  {
+   "period": "Before COVID",
+   "matches": 1013,
+   "home_win": 46.3,
+   "draw": 26.3,
+   "away_win": 27.4
+  },
+  {
+   "period": "Empty stadiums",
+   "matches": 487,
+   "home_win": 41.1,
+   "draw": 28.5,
+   "away_win": 30.4
+  },
+  {
+   "period": "Fans back",
+   "matches": 1520,
+   "home_win": 46.3,
+   "draw": 25.4,
+   "away_win": 28.3
+  }
+ ],
+ "Serie_A": [
+  {
+   "period": "Before COVID",
+   "matches": 1007,
+   "home_win": 42.7,
+   "draw": 24.5,
+   "away_win": 32.8
+  },
+  {
+   "period": "Empty stadiums",
+   "matches": 466,
+   "home_win": 41.6,
+   "draw": 24.9,
+   "away_win": 33.5
+  },
+  {
+   "period": "Fans back",
+   "matches": 1517,
+   "home_win": 40.7,
+   "draw": 27.6,
+   "away_win": 31.6
+  }
+ ],
+ "Bundesliga": [
+  {
+   "period": "Before COVID",
+   "matches": 824,
+   "home_win": 44.9,
+   "draw": 24.2,
+   "away_win": 30.9
+  },
+  {
+   "period": "Empty stadiums",
+   "matches": 353,
+   "home_win": 39.9,
+   "draw": 25.5,
+   "away_win": 34.6
+  },
+  {
+   "period": "Fans back",
+   "matches": 1223,
+   "home_win": 43.4,
+   "draw": 25.2,
+   "away_win": 31.4
+  }
+ ],
+ "Ligue_1": [
+  {
+   "period": "Before COVID",
+   "matches": 1024,
+   "home_win": 45.1,
+   "draw": 26.7,
+   "away_win": 28.2
+  },
+  {
+   "period": "Empty stadiums",
+   "matches": 376,
+   "home_win": 37.5,
+   "draw": 24.7,
+   "away_win": 37.8
+  },
+  {
+   "period": "Fans back",
+   "matches": 1293,
+   "home_win": 43.9,
+   "draw": 23.8,
+   "away_win": 32.3
+  }
+ ]
+}

@@ -1,0 +1,292 @@
+{
+  "result_model": {
+    "classes": [
+      "A",
+      "D",
+      "H"
+    ],
+    "features": [
+      "elo_diff",
+      "attendance_pct"
+    ],
+    "coef": [
+      [
+        -0.00392,
+        -0.11122
+      ],
+      [
+        -7e-05,
+        -0.01098
+      ],
+      [
+        0.004,
+        0.1222
+      ]
+    ],
+    "intercept": [
+      -0.03312,
+      -0.16365,
+      0.19677
+    ]
+  },
+  "cards_model": {
+    "home_yellows": {
+      "features": [
+        "ref_strictness",
+        "attendance_pct"
+      ],
+      "coef": [
+        0.36224,
+        -0.03905
+      ],
+      "intercept": 0.49271
+    },
+    "away_yellows": {
+      "features": [
+        "ref_strictness",
+        "attendance_pct"
+      ],
+      "coef": [
+        0.35991,
+        0.20002
+      ],
+      "intercept": 0.55716
+    }
+  },
+  "teams": {
+    "EPL": {
+      "Arsenal": 1762.2,
+      "Aston Villa": 1635.9,
+      "Bournemouth": 1617.0,
+      "Brentford": 1575.4,
+      "Brighton": 1584.3,
+      "Burnley": 1379.0,
+      "Chelsea": 1580.3,
+      "Crystal Palace": 1540.6,
+      "Everton": 1544.3,
+      "Fulham": 1556.2,
+      "Leeds United": 1522.5,
+      "Liverpool": 1652.9,
+      "Manchester City": 1741.4,
+      "Manchester Utd": 1650.2,
+      "Newcastle": 1568.1,
+      "Nottingham": 1551.4,
+      "Sunderland": 1556.7,
+      "Tottenham": 1491.7,
+      "West Ham": 1507.8,
+      "Wolves": 1426.5
+    },
+    "La_Liga": {
+      "Alavés": 1496.5,
+      "Athletic Club": 1530.8,
+      "Atlético Madrid": 1642.4,
+      "Barcelona": 1789.7,
+      "Celta Vigo": 1552.9,
+      "Elche": 1468.0,
+      "Espanyol": 1478.2,
+      "Getafe": 1511.0,
+      "Girona": 1491.9,
+      "Levante": 1493.4,
+      "Mallorca": 1487.0,
+      "Osasuna": 1490.2,
+      "Oviedo": 1436.9,
+      "Rayo Vallecano": 1551.2,
+      "Real Betis": 1608.1,
+      "Real Madrid": 1756.1,
+      "Real Sociedad": 1513.6,
+      "Sevilla": 1479.0,
+      "Valencia": 1542.0,
+      "Villarreal": 1642.1
+    },
+    "Ligue_1": {
+      "Angers": 1453.2,
+      "Auxerre": 1501.6,
+      "Brest": 1525.5,
+      "Le Havre": 1482.2,
+      "Lens": 1654.3,
+      "Lille": 1647.2,
+      "Lorient": 1517.9,
+      "Lyon": 1625.8,
+      "Marseille": 1622.0,
+      "Metz": 1365.2,
+      "Monaco": 1619.4,
+      "Nantes": 1425.0,
+      "Nice": 1520.1,
+      "Paris FC": 1545.4,
+      "Paris SG": 1770.0,
+      "Rennes": 1597.4,
+      "Strasbourg": 1597.0,
+      "Toulouse": 1539.2
+    },
+    "Bundesliga": {
+      "Augsburg": 1528.0,
+      "Bayern Munich": 1823.8,
+      "Dortmund": 1700.0,
+      "Frankfurt": 1558.2,
+      "Freiburg": 1564.9,
+      "Gladbach": 1509.5,
+      "Hamburger SV": 1482.5,
+      "Heidenheim": 1435.8,
+      "Hoffenheim": 1577.9,
+      "Köln": 1451.9,
+      "Leverkusen": 1676.0,
+      "Mainz 05": 1549.8,
+      "RB Leipzig": 1644.0,
+      "St Pauli": 1422.5,
+      "Stuttgart": 1635.9,
+      "Union Berlin": 1502.2,
+      "Werder Bremen": 1481.2,
+      "Wolfsburg": 1459.4
+    },
+    "Serie_A": {
+      "Atalanta": 1637.3,
+      "Bologna": 1598.4,
+      "Cagliari": 1493.9,
+      "Como": 1643.0,
+      "Cremonese": 1434.7,
+      "Fiorentina": 1572.3,
+      "Genoa": 1507.6,
+      "Hellas Verona": 1400.6,
+      "Inter": 1783.2,
+      "Juventus": 1677.9,
+      "Lazio": 1604.2,
+      "Lecce": 1470.8,
+      "Milan": 1649.3,
+      "Napoli": 1702.8,
+      "Parma": 1501.9,
+      "Pisa": 1386.1,
+      "Roma": 1683.0,
+      "Sassuolo": 1502.7,
+      "Torino": 1520.5,
+      "Udinese": 1524.4
+    }
+  },
+  "referees": {
+    "Bundesliga": {
+      "Bastian Dankert": 3.72,
+      "Benjamin Brand": 3.84,
+      "Christian Dingert": 4.12,
+      "Daniel Schlager": 4.17,
+      "Daniel Siebert": 3.87,
+      "Deniz Aytekin": 3.87,
+      "Felix Zwayer": 4.02,
+      "Florian Badstübner": 3.36,
+      "Florian Exner": 4.72,
+      "Frank Willenborg": 4.09,
+      "Harm Osmers": 3.69,
+      "Martin Petersen": 3.98,
+      "Matthias Jöllenbeck": 3.72,
+      "Patrick Ittrich": 3.83,
+      "Robert Hartmann": 3.56,
+      "Robert Schröder": 3.88,
+      "Robin Braun": 4.17,
+      "Sascha Stegemann": 3.77,
+      "Sven Jablonski": 3.48,
+      "Sören Storks": 3.91,
+      "Timo Gerach": 3.93,
+      "Tobias Reichel": 3.7,
+      "Tobias Stieler": 3.26,
+      "Tobias Welz": 4.4
+    },
+    "EPL": {
+      "Andy Madley": 3.23,
+      "Anthony Taylor": 3.54,
+      "Chris Kavanagh": 3.58,
+      "Craig Pawson": 3.68,
+      "Darren England": 3.96,
+      "Jarred Gillett": 3.72,
+      "John Brooks": 4.37,
+      "Lewis Smith": 4.1,
+      "Michael Oliver": 3.24,
+      "Michael Salisbury": 3.88,
+      "Paul Tierney": 3.44,
+      "Peter Bankes": 3.94,
+      "Robert Jones": 3.86,
+      "Samuel Barrott": 3.9,
+      "Simon Hooper": 3.66,
+      "Stuart Attwell": 3.81,
+      "Thomas Bramall": 3.9,
+      "Tim Robinson": 4.19,
+      "Tony Harrington": 3.59
+    },
+    "La_Liga": {
+      "Adrián Cordero": 4.72,
+      "Alejandro Hernández": 5.87,
+      "Alejandro Muñíz": 5.04,
+      "Alejandro Quintero": 4.61,
+      "César Soto": 5.04,
+      "Francisco Hernández": 4.07,
+      "Guillermo Cuadra": 4.86,
+      "Iosu Galech": 4.84,
+      "Isidro Díaz de Mera": 5.29,
+      "Javier Alberola": 3.47,
+      "Jesús Gil": 5.21,
+      "Jose Maria Sánchez": 4.75,
+      "José Guzmán": 5.41,
+      "José Luis Munuera": 4.48,
+      "Juan Martínez": 4.95,
+      "Mateo Busquets": 5.55,
+      "Miguel Sesma": 3.6,
+      "Miguel Ángel Ortiz Arias": 4.21,
+      "Ricardo de Burgos": 4.6,
+      "Víctor García": 4.05
+    },
+    "Ligue_1": {
+      "Abdelatif Kherradji": 3.79,
+      "Bastien Dechepy": 3.91,
+      "Benoît Bastien": 4.26,
+      "Benoît Millot": 3.99,
+      "Clément Turpin": 3.33,
+      "Eric Wattellier": 3.06,
+      "François Letexier": 4.22,
+      "Gaël Angoula": 3.06,
+      "Guillaume Paradis": 3.93,
+      "Hakim Ben El Hadj Salem": 3.7,
+      "Jeremy Stinat": 3.8,
+      "Jérémie Pignard": 4.1,
+      "Jérôme Brisard": 3.61,
+      "Marc Bollengier": 3.63,
+      "Mathieu Vernice": 4.11,
+      "Romain Lissorgue": 3.74,
+      "Ruddy Buquet": 3.98,
+      "Stéphanie Frappart": 3.8,
+      "Thomas Léonard": 3.78,
+      "Willy Delajod": 3.72
+    },
+    "Serie_A": {
+      "Alberto Arena": 3.25,
+      "Andrea Colombo": 4.73,
+      "Antonio Rapuano": 4.73,
+      "Daniele Chiffi": 3.78,
+      "Daniele Doveri": 3.83,
+      "Davide Massa": 5.03,
+      "Ermanno Feliciani": 2.92,
+      "Fabio Maresca": 5.29,
+      "Federico Dionisi": 4.03,
+      "Federico La Penna": 4.44,
+      "Francesco Fourneau": 4.56,
+      "Gianluca Manganiello": 3.7,
+      "Giovanni Ayroldi": 5.44,
+      "Giuseppe Collu": 4.1,
+      "Ivan Pezzuto": 4.14,
+      "Juan Luca Sacchi": 3.41,
+      "Kevin Bonacina": 3.31,
+      "Livio Marinelli": 3.75,
+      "Luca Massimi": 4.36,
+      "Luca Pairetto": 4.69,
+      "Luca Zufferli": 2.85,
+      "Marco Di Bello": 4.08,
+      "Marco Guida": 4.77,
+      "Marco Piccinini": 4.21,
+      "Maria Sole Ferrieri Caputi": 3.8,
+      "Matteo Marcenaro": 4.74,
+      "Matteo Marchetti": 3.88,
+      "Maurizio Mariani": 4.52,
+      "Michael Fabbri": 4.52,
+      "Paride Tremolada": 5.2,
+      "Rosario Abisso": 4.55,
+      "Simone Sozza": 4.14,
+      "Valerio Crezzini": 3.4
+    }
+  }
+}

@@ -1,0 +1,830 @@
+[
+ {
+  "month": "2017-08",
+  "Bundesliga": 45209,
+  "EPL": 37780,
+  "La_Liga": 25139,
+  "Ligue_1": 22068,
+  "Serie_A": 23430,
+  "All": 29697
+ },
+ {
+  "month": "2017-09",
+  "Bundesliga": 43340,
+  "EPL": 37755,
+  "La_Liga": 27501,
+  "Ligue_1": 21787,
+  "Serie_A": 23226,
+  "All": 30803
+ },
+ {
+  "month": "2017-10",
+  "Bundesliga": 46579,
+  "EPL": 39127,
+  "La_Liga": 28825,
+  "Ligue_1": 23472,
+  "Serie_A": 25286,
+  "All": 31780
+ },
+ {
+  "month": "2017-11",
+  "Bundesliga": 45103,
+  "EPL": 38145,
+  "La_Liga": 29354,
+  "Ligue_1": 20928,
+  "Serie_A": 24758,
+  "All": 31139
+ },
+ {
+  "month": "2017-12",
+  "Bundesliga": 42633,
+  "EPL": 37387,
+  "La_Liga": 27163,
+  "Ligue_1": 20423,
+  "Serie_A": 24076,
+  "All": 30746
+ },
+ {
+  "month": "2018-01",
+  "Bundesliga": 46566,
+  "EPL": 39589,
+  "La_Liga": 27843,
+  "Ligue_1": 21363,
+  "Serie_A": 22493,
+  "All": 30936
+ },
+ {
+  "month": "2018-02",
+  "Bundesliga": 42297,
+  "EPL": 37217,
+  "La_Liga": 26473,
+  "Ligue_1": 22479,
+  "Serie_A": 23106,
+  "All": 29547
+ },
+ {
+  "month": "2018-03",
+  "Bundesliga": 44899,
+  "EPL": 38344,
+  "La_Liga": 27560,
+  "Ligue_1": 22315,
+  "Serie_A": 25168,
+  "All": 31656
+ },
+ {
+  "month": "2018-04",
+  "Bundesliga": 45202,
+  "EPL": 38459,
+  "La_Liga": 25145,
+  "Ligue_1": 24363,
+  "Serie_A": 25345,
+  "All": 30590
+ },
+ {
+  "month": "2018-05",
+  "Bundesliga": 47550,
+  "EPL": 39767,
+  "La_Liga": 28314,
+  "Ligue_1": 26065,
+  "Serie_A": 29531,
+  "All": 32822
+ },
+ {
+  "month": "2018-08",
+  "Bundesliga": 47260,
+  "EPL": 38093,
+  "La_Liga": 24308,
+  "Ligue_1": 25715,
+  "Serie_A": 26404,
+  "All": 30776
+ },
+ {
+  "month": "2018-09",
+  "Bundesliga": 42089,
+  "EPL": 39060,
+  "La_Liga": 29997,
+  "Ligue_1": 21353,
+  "Serie_A": 24237,
+  "All": 30792
+ },
+ {
+  "month": "2018-10",
+  "Bundesliga": 43406,
+  "EPL": 36415,
+  "La_Liga": 29117,
+  "Ligue_1": 22920,
+  "Serie_A": 25619,
+  "All": 31184
+ },
+ {
+  "month": "2018-11",
+  "Bundesliga": 42914,
+  "EPL": 38041,
+  "La_Liga": 25831,
+  "Ligue_1": 22565,
+  "Serie_A": 27427,
+  "All": 31152
+ },
+ {
+  "month": "2018-12",
+  "Bundesliga": 42375,
+  "EPL": 37247,
+  "La_Liga": 28010,
+  "Ligue_1": 21204,
+  "Serie_A": 24449,
+  "All": 31211
+ },
+ {
+  "month": "2019-01",
+  "Bundesliga": 41980,
+  "EPL": 39353,
+  "La_Liga": 25853,
+  "Ligue_1": 20220,
+  "Serie_A": 21663,
+  "All": 29245
+ },
+ {
+  "month": "2019-02",
+  "Bundesliga": 42281,
+  "EPL": 38138,
+  "La_Liga": 27846,
+  "Ligue_1": 22658,
+  "Serie_A": 23221,
+  "All": 30553
+ },
+ {
+  "month": "2019-03",
+  "Bundesliga": 45140,
+  "EPL": 38380,
+  "La_Liga": 28507,
+  "Ligue_1": 23126,
+  "Serie_A": 27189,
+  "All": 32206
+ },
+ {
+  "month": "2019-04",
+  "Bundesliga": 45219,
+  "EPL": 38747,
+  "La_Liga": 26071,
+  "Ligue_1": 24251,
+  "Serie_A": 24482,
+  "All": 30793
+ },
+ {
+  "month": "2019-05",
+  "Bundesliga": 44571,
+  "EPL": 38850,
+  "La_Liga": 24031,
+  "Ligue_1": 25207,
+  "Serie_A": 25646,
+  "All": 30131
+ },
+ {
+  "month": "2019-08",
+  "Bundesliga": 40598,
+  "EPL": 38768,
+  "La_Liga": 28361,
+  "Ligue_1": 22807,
+  "Serie_A": 29414,
+  "All": 32094
+ },
+ {
+  "month": "2019-09",
+  "Bundesliga": 39373,
+  "EPL": 39610,
+  "La_Liga": 29562,
+  "Ligue_1": 22096,
+  "Serie_A": 25928,
+  "All": 30107
+ },
+ {
+  "month": "2019-10",
+  "Bundesliga": 41109,
+  "EPL": 39866,
+  "La_Liga": 28595,
+  "Ligue_1": 24001,
+  "Serie_A": 27149,
+  "All": 31515
+ },
+ {
+  "month": "2019-11",
+  "Bundesliga": 42887,
+  "EPL": 39190,
+  "La_Liga": 26422,
+  "Ligue_1": 22698,
+  "Serie_A": 25294,
+  "All": 31229
+ },
+ {
+  "month": "2019-12",
+  "Bundesliga": 39951,
+  "EPL": 38826,
+  "La_Liga": 30709,
+  "Ligue_1": 22127,
+  "Serie_A": 26561,
+  "All": 32406
+ },
+ {
+  "month": "2020-01",
+  "Bundesliga": 42781,
+  "EPL": 40089,
+  "La_Liga": 28729,
+  "Ligue_1": 21715,
+  "Serie_A": 28627,
+  "All": 32437
+ },
+ {
+  "month": "2020-02",
+  "Bundesliga": 40863,
+  "EPL": 38588,
+  "La_Liga": 30404,
+  "Ligue_1": 21782,
+  "Serie_A": 27446,
+  "All": 30938
+ },
+ {
+  "month": "2020-03",
+  "Bundesliga": 35523,
+  "EPL": 41344,
+  "La_Liga": 30052,
+  "Ligue_1": 25038,
+  "Serie_A": null,
+  "All": 28998
+ },
+ {
+  "month": "2020-05",
+  "Bundesliga": 0,
+  "EPL": null,
+  "La_Liga": null,
+  "Ligue_1": null,
+  "Serie_A": null,
+  "All": 0
+ },
+ {
+  "month": "2020-06",
+  "Bundesliga": 0,
+  "EPL": 0,
+  "La_Liga": 0,
+  "Ligue_1": null,
+  "Serie_A": 0,
+  "All": 0
+ },
+ {
+  "month": "2020-07",
+  "Bundesliga": null,
+  "EPL": 0,
+  "La_Liga": 0,
+  "Ligue_1": null,
+  "Serie_A": 0,
+  "All": 0
+ },
+ {
+  "month": "2020-08",
+  "Bundesliga": null,
+  "EPL": null,
+  "La_Liga": null,
+  "Ligue_1": 527,
+  "Serie_A": 0,
+  "All": 325
+ },
+ {
+  "month": "2020-09",
+  "Bundesliga": 4606,
+  "EPL": 0,
+  "La_Liga": 0,
+  "Ligue_1": 129,
+  "Serie_A": 792,
+  "All": 793
+ },
+ {
+  "month": "2020-10",
+  "Bundesliga": 2083,
+  "EPL": 0,
+  "La_Liga": 0,
+  "Ligue_1": 161,
+  "Serie_A": 1152,
+  "All": 655
+ },
+ {
+  "month": "2020-11",
+  "Bundesliga": 0,
+  "EPL": 0,
+  "La_Liga": 0,
+  "Ligue_1": 0,
+  "Serie_A": 0,
+  "All": 0
+ },
+ {
+  "month": "2020-12",
+  "Bundesliga": 0,
+  "EPL": 421,
+  "La_Liga": 0,
+  "Ligue_1": 0,
+  "Serie_A": 0,
+  "All": 98
+ },
+ {
+  "month": "2021-01",
+  "Bundesliga": 0,
+  "EPL": 0,
+  "La_Liga": 0,
+  "Ligue_1": 0,
+  "Serie_A": 0,
+  "All": 0
+ },
+ {
+  "month": "2021-02",
+  "Bundesliga": 0,
+  "EPL": 0,
+  "La_Liga": 0,
+  "Ligue_1": 0,
+  "Serie_A": 0,
+  "All": 0
+ },
+ {
+  "month": "2021-03",
+  "Bundesliga": 0,
+  "EPL": 0,
+  "La_Liga": 0,
+  "Ligue_1": 0,
+  "Serie_A": 0,
+  "All": 0
+ },
+ {
+  "month": "2021-04",
+  "Bundesliga": 0,
+  "EPL": 0,
+  "La_Liga": 0,
+  "Ligue_1": 0,
+  "Serie_A": 0,
+  "All": 0
+ },
+ {
+  "month": "2021-05",
+  "Bundesliga": 82,
+  "EPL": 2972,
+  "La_Liga": 260,
+  "Ligue_1": 0,
+  "Serie_A": 20,
+  "All": 763
+ },
+ {
+  "month": "2021-08",
+  "Bundesliga": 15901,
+  "EPL": 40171,
+  "La_Liga": 10804,
+  "Ligue_1": 20775,
+  "Serie_A": 13036,
+  "All": 20750
+ },
+ {
+  "month": "2021-09",
+  "Bundesliga": 17469,
+  "EPL": 38496,
+  "La_Liga": 16107,
+  "Ligue_1": 20740,
+  "Serie_A": 13694,
+  "All": 20662
+ },
+ {
+  "month": "2021-10",
+  "Bundesliga": 27196,
+  "EPL": 39779,
+  "La_Liga": 23865,
+  "Ligue_1": 23010,
+  "Serie_A": 16898,
+  "All": 25615
+ },
+ {
+  "month": "2021-11",
+  "Bundesliga": 27465,
+  "EPL": 39285,
+  "La_Liga": 24547,
+  "Ligue_1": 21945,
+  "Serie_A": 18698,
+  "All": 26340
+ },
+ {
+  "month": "2021-12",
+  "Bundesliga": 8962,
+  "EPL": 39530,
+  "La_Liga": 25311,
+  "Ligue_1": 21709,
+  "Serie_A": 17650,
+  "All": 24418
+ },
+ {
+  "month": "2022-01",
+  "Bundesliga": 1066,
+  "EPL": 38572,
+  "La_Liga": 19999,
+  "Ligue_1": 4652,
+  "Serie_A": 7998,
+  "All": 15592
+ },
+ {
+  "month": "2022-02",
+  "Bundesliga": 11437,
+  "EPL": 40698,
+  "La_Liga": 26276,
+  "Ligue_1": 22510,
+  "Serie_A": 15768,
+  "All": 23766
+ },
+ {
+  "month": "2022-03",
+  "Bundesliga": 26654,
+  "EPL": 38898,
+  "La_Liga": 24787,
+  "Ligue_1": 25347,
+  "Serie_A": 21507,
+  "All": 27602
+ },
+ {
+  "month": "2022-04",
+  "Bundesliga": 38452,
+  "EPL": 40012,
+  "La_Liga": 28587,
+  "Ligue_1": 24849,
+  "Serie_A": 23795,
+  "All": 31012
+ },
+ {
+  "month": "2022-05",
+  "Bundesliga": 39610,
+  "EPL": 39334,
+  "La_Liga": 25208,
+  "Ligue_1": 23763,
+  "Serie_A": 29789,
+  "All": 30757
+ },
+ {
+  "month": "2022-08",
+  "Bundesliga": 42021,
+  "EPL": 39952,
+  "La_Liga": 28869,
+  "Ligue_1": 24710,
+  "Serie_A": 29838,
+  "All": 33075
+ },
+ {
+  "month": "2022-09",
+  "Bundesliga": 42317,
+  "EPL": 39933,
+  "La_Liga": 32158,
+  "Ligue_1": 22698,
+  "Serie_A": 26306,
+  "All": 31693
+ },
+ {
+  "month": "2022-10",
+  "Bundesliga": 43149,
+  "EPL": 39181,
+  "La_Liga": 28616,
+  "Ligue_1": 23319,
+  "Serie_A": 29490,
+  "All": 32627
+ },
+ {
+  "month": "2022-11",
+  "Bundesliga": 42620,
+  "EPL": 41848,
+  "La_Liga": 28962,
+  "Ligue_1": 25078,
+  "Serie_A": 29494,
+  "All": 33789
+ },
+ {
+  "month": "2022-12",
+  "Bundesliga": null,
+  "EPL": 39811,
+  "La_Liga": 32203,
+  "Ligue_1": 22262,
+  "Serie_A": null,
+  "All": 33191
+ },
+ {
+  "month": "2023-01",
+  "Bundesliga": 42665,
+  "EPL": 39769,
+  "La_Liga": 25611,
+  "Ligue_1": 22834,
+  "Serie_A": 28387,
+  "All": 30788
+ },
+ {
+  "month": "2023-02",
+  "Bundesliga": 43009,
+  "EPL": 41283,
+  "La_Liga": 29796,
+  "Ligue_1": 22245,
+  "Serie_A": 28370,
+  "All": 32202
+ },
+ {
+  "month": "2023-03",
+  "Bundesliga": 41426,
+  "EPL": 39698,
+  "La_Liga": 30639,
+  "Ligue_1": 24744,
+  "Serie_A": 31187,
+  "All": 33398
+ },
+ {
+  "month": "2023-04",
+  "Bundesliga": 43799,
+  "EPL": 39903,
+  "La_Liga": 31022,
+  "Ligue_1": 24037,
+  "Serie_A": 31408,
+  "All": 34113
+ },
+ {
+  "month": "2023-05",
+  "Bundesliga": 45216,
+  "EPL": 41602,
+  "La_Liga": 29945,
+  "Ligue_1": 25862,
+  "Serie_A": 29371,
+  "All": 33899
+ },
+ {
+  "month": "2023-06",
+  "Bundesliga": null,
+  "EPL": null,
+  "La_Liga": 28449,
+  "Ligue_1": 19077,
+  "Serie_A": 31665,
+  "All": 26397
+ },
+ {
+  "month": "2023-08",
+  "Bundesliga": 39586,
+  "EPL": 39201,
+  "La_Liga": 26311,
+  "Ligue_1": 27788,
+  "Serie_A": 30947,
+  "All": 32322
+ },
+ {
+  "month": "2023-09",
+  "Bundesliga": 40040,
+  "EPL": 38879,
+  "La_Liga": 29150,
+  "Ligue_1": 26477,
+  "Serie_A": 30627,
+  "All": 32977
+ },
+ {
+  "month": "2023-10",
+  "Bundesliga": 42511,
+  "EPL": 38137,
+  "La_Liga": 29363,
+  "Ligue_1": 26330,
+  "Serie_A": 30307,
+  "All": 33071
+ },
+ {
+  "month": "2023-11",
+  "Bundesliga": 37758,
+  "EPL": 36859,
+  "La_Liga": 30801,
+  "Ligue_1": 27036,
+  "Serie_A": 31218,
+  "All": 32788
+ },
+ {
+  "month": "2023-12",
+  "Bundesliga": 37610,
+  "EPL": 38283,
+  "La_Liga": 28996,
+  "Ligue_1": 26688,
+  "Serie_A": 31152,
+  "All": 33059
+ },
+ {
+  "month": "2024-01",
+  "Bundesliga": 40740,
+  "EPL": 40328,
+  "La_Liga": 30014,
+  "Ligue_1": 26902,
+  "Serie_A": 29720,
+  "All": 33080
+ },
+ {
+  "month": "2024-02",
+  "Bundesliga": 38599,
+  "EPL": 39611,
+  "La_Liga": 30013,
+  "Ligue_1": 27835,
+  "Serie_A": 31462,
+  "All": 33572
+ },
+ {
+  "month": "2024-03",
+  "Bundesliga": 38441,
+  "EPL": 37116,
+  "La_Liga": 28704,
+  "Ligue_1": 26528,
+  "Serie_A": 32498,
+  "All": 32569
+ },
+ {
+  "month": "2024-04",
+  "Bundesliga": 39303,
+  "EPL": 38986,
+  "La_Liga": 28517,
+  "Ligue_1": 28018,
+  "Serie_A": 30611,
+  "All": 33591
+ },
+ {
+  "month": "2024-05",
+  "Bundesliga": 41119,
+  "EPL": 39185,
+  "La_Liga": 28238,
+  "Ligue_1": 27543,
+  "Serie_A": 31285,
+  "All": 32862
+ },
+ {
+  "month": "2024-08",
+  "Bundesliga": 37837,
+  "EPL": 39904,
+  "La_Liga": 30972,
+  "Ligue_1": 26531,
+  "Serie_A": 33370,
+  "All": 33497
+ },
+ {
+  "month": "2024-09",
+  "Bundesliga": 39300,
+  "EPL": 41010,
+  "La_Liga": 29628,
+  "Ligue_1": 26297,
+  "Serie_A": 28892,
+  "All": 32664
+ },
+ {
+  "month": "2024-10",
+  "Bundesliga": 36144,
+  "EPL": 40400,
+  "La_Liga": 28806,
+  "Ligue_1": 28823,
+  "Serie_A": 31380,
+  "All": 33033
+ },
+ {
+  "month": "2024-11",
+  "Bundesliga": 41226,
+  "EPL": 39141,
+  "La_Liga": 29156,
+  "Ligue_1": 28529,
+  "Serie_A": 29492,
+  "All": 33718
+ },
+ {
+  "month": "2024-12",
+  "Bundesliga": 38545,
+  "EPL": 41488,
+  "La_Liga": 29553,
+  "Ligue_1": 27293,
+  "Serie_A": 31454,
+  "All": 34720
+ },
+ {
+  "month": "2025-01",
+  "Bundesliga": 38471,
+  "EPL": 40542,
+  "La_Liga": 29248,
+  "Ligue_1": 26733,
+  "Serie_A": 29203,
+  "All": 33096
+ },
+ {
+  "month": "2025-02",
+  "Bundesliga": 40219,
+  "EPL": 40415,
+  "La_Liga": 31084,
+  "Ligue_1": 27861,
+  "Serie_A": 28555,
+  "All": 33627
+ },
+ {
+  "month": "2025-03",
+  "Bundesliga": 38492,
+  "EPL": 39755,
+  "La_Liga": 31637,
+  "Ligue_1": 28280,
+  "Serie_A": 31914,
+  "All": 33361
+ },
+ {
+  "month": "2025-04",
+  "Bundesliga": 37131,
+  "EPL": 40584,
+  "La_Liga": 29162,
+  "Ligue_1": 30831,
+  "Serie_A": 31871,
+  "All": 34218
+ },
+ {
+  "month": "2025-05",
+  "Bundesliga": 38754,
+  "EPL": 40298,
+  "La_Liga": 29120,
+  "Ligue_1": 30028,
+  "Serie_A": 31214,
+  "All": 33589
+ },
+ {
+  "month": "2025-08",
+  "Bundesliga": 42559,
+  "EPL": 42821,
+  "La_Liga": 32207,
+  "Ligue_1": 26934,
+  "Serie_A": 34444,
+  "All": 35438
+ },
+ {
+  "month": "2025-09",
+  "Bundesliga": 40319,
+  "EPL": 40403,
+  "La_Liga": 29559,
+  "Ligue_1": 28247,
+  "Serie_A": 31002,
+  "All": 33635
+ },
+ {
+  "month": "2025-10",
+  "Bundesliga": 44037,
+  "EPL": 41538,
+  "La_Liga": 30804,
+  "Ligue_1": 27154,
+  "Serie_A": 31328,
+  "All": 34332
+ },
+ {
+  "month": "2025-11",
+  "Bundesliga": 41234,
+  "EPL": 41914,
+  "La_Liga": 32087,
+  "Ligue_1": 27273,
+  "Serie_A": 31009,
+  "All": 34735
+ },
+ {
+  "month": "2025-12",
+  "Bundesliga": 42802,
+  "EPL": 42045,
+  "La_Liga": 32468,
+  "Ligue_1": 27933,
+  "Serie_A": 30200,
+  "All": 36290
+ },
+ {
+  "month": "2026-01",
+  "Bundesliga": 40988,
+  "EPL": 39960,
+  "La_Liga": 28073,
+  "Ligue_1": 26740,
+  "Serie_A": 29200,
+  "All": 33225
+ },
+ {
+  "month": "2026-02",
+  "Bundesliga": 42346,
+  "EPL": 41708,
+  "La_Liga": 30632,
+  "Ligue_1": 25241,
+  "Serie_A": 27951,
+  "All": 33649
+ },
+ {
+  "month": "2026-03",
+  "Bundesliga": 44514,
+  "EPL": 41812,
+  "La_Liga": 34096,
+  "Ligue_1": 29327,
+  "Serie_A": 28714,
+  "All": 35471
+ },
+ {
+  "month": "2026-04",
+  "Bundesliga": 42410,
+  "EPL": 42419,
+  "La_Liga": 30698,
+  "Ligue_1": 27561,
+  "Serie_A": 29681,
+  "All": 34139
+ },
+ {
+  "month": "2026-05",
+  "Bundesliga": 42557,
+  "EPL": 42159,
+  "La_Liga": 30193,
+  "Ligue_1": 29261,
+  "Serie_A": 28795,
+  "All": 34185
+ }
+]
